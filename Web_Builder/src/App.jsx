@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import "./App.css"
-import Navbar from './components/Navbar'
+import Navbar from './Components/Navbar'
 import { MdOutlineArrowUpward } from "react-icons/md";
 import { ImNewTab } from "react-icons/im";
 import { IoMdDownload } from "react-icons/io";
